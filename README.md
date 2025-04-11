@@ -1,54 +1,48 @@
-# 👋 Olá! Eu sou [Rafael Souza]
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0118D8&height=120&section=header"/>
 
-Estudante de Análise e Desenvolvimento de Sistemas no Centro Universitário FAM. Atualmente estudo Front-End e Back-End. Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções.
 
-<h3 align="left">My Stack ~</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1B56FD&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+Meu+Nome+é+Rafael+Souza;Tenho+30+anos+e+moro+em+São+Paulo;Bem+Vindo+ao+meu+GitHub!:%29)](https://git.io/typing-svg) 
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25" alt="javascript logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25" alt="react logo"  />
-  <img width="8" />
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=RafinhasouzaDEV&show_icons=true&count_private=true&hide_border=true&title_color=1B56FD&icon_color=1B56FD&text_color=FFF8F8&bg_color=0d1117" alt="Rafael Souza github stats"/> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafinhasouzaDEV&layout=compact&hide_border=true&title_color=1B56FD&text_color=FFF8F8&bg_color=0d1117" />
 </div>
 
-#
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RafinhasouzaDEV&bg_color=000000&color=0118D8&line=FFF8F8&point=FFD63A&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-🔹 Aprofundando em **JavaScript**, incluindo Arrays e outros tópicos avançados. 
-🔹 Melhorando cada vez mais minha prática com **JavaScript** e técnicas avançadas.
+ 
+### Principais habilidades:
+![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 
-## 💡 O que vem a seguir?
+### Ferramentas:
+![Replit](https://img.shields.io/badge/-replit-0D1117?style=for-the-badge&logo=replit&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)&nbsp;
+![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 
-Em breve, quero explorar **React**, aprofundar ainda mais em **Back-End** com **Node.js** e desenvolver projetos cada vez mais completos!
+### Outros conhecimentos:
+![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
+![WordPress](https://img.shields.io/badge/-wordpress-0D1117?style=for-the-badge&logo=wordpress&labelColor=0D1117)&nbsp;
+  
+### Estudando neste momento:
+![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 
-#
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{RafinhasouzaDEV}/count.svg" /></p> 
+<br></div>
 
-<div style="text-align: center;" align="center">
-  <h3>* GitHub Stats *</h3>
-  <br>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RafinhasouzaDEV
-&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly" alt="GitHub stats">
-
-  <a href="https://github.com/RafinhasouzaDEV
-/github-readme-stats">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RafinhasouzaDEV
-&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF00F6&hide=html,scss,less&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true" alt="Most Used Languages">
-  </a>
-</div>
-
-#
-
-<h3 align="left">Vamos nos Conectar!</h3>
-
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:r.nasci223email02@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/rafaelnsouzadev)
-
-
+<div align="center">
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RafinhasouzaDEV/RafinhasouzaDEV/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RafinhasouzaDEV/RafinhasouzaDEV/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RafinhasouzaDEV/RafinhasouzaDEV/output/github-contribution-grid-snake.svg">
 </picture>
+</div>
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0118D8&height=120&section=footer"/>
