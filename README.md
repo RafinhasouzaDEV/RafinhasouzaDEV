@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Olá! Eu sou [Rafael Souza]
 
-<!--
-**RafinhasouzaDEV/RafinhasouzaDEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Análise e Desenvolvimento de Sistemas no Centro Universitário FAM. Atualmente estudo Front-End e Back-End. Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções.
 
-Here are some ideas to get you started:
+## 🚀 Minhas habilidades
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 **Lógica de Programação** 
+
+📌 **JavaScript** .
+
+📌 **HTML** 
+
+📌 **CSS**
+
+📌 **Git & GitHub** 
+
+## 📚 Aprendendo agora...
+
+🔹 Aprofundando em **JavaScript**, incluindo Arrays e outros tópicos avançados.  
+🔹 Melhorando cada vez mais minha prática com **JavaScript** e técnicas avançadas.
+
+## 💡 O que vem a seguir?
+
+Em breve, quero explorar **React**, aprofundar ainda mais em **Back-End** com **Node.js** e desenvolver projetos cada vez mais completos!
+
+## 📬 Vamos conectar?
+
+Se quiser trocar ideias, colaborar ou só bater um papo sobre programação, pode me encontrar no [Seu LinkedIn](#) ou me mandar um email: [seuemail@example.com](mailto:seuemail@example.com).
