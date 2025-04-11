@@ -24,9 +24,10 @@ Estudante de Análise e Desenvolvimento de Sistemas no Centro Universitário FAM
 
 Em breve, quero explorar **React**, aprofundar ainda mais em **Back-End** com **Node.js** e desenvolver projetos cada vez mais completos!
 
-## 📬 Vamos conectar?
+<h3 align="left">Vamos nos Conectar!</h3>
 
-Se quiser trocar ideias, colaborar ou só bater um papo sobre programação, pode me encontrar no [Seu LinkedIn](#) ou me mandar um email: [seuemail@example.com](mailto:seuemail@example.com).
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:r.nasci223email02@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/rafaelnsouzadev)
 
 
 <picture align="center">
