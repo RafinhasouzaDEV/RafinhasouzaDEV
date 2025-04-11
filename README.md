@@ -17,6 +17,12 @@ Estudante de Análise e Desenvolvimento de Sistemas no Centro Universitário FAM
 ## 📚 Aprendendo agora...
 
 🔹 Aprofundando em **JavaScript**, incluindo Arrays e outros tópicos avançados.  
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RafinhasouzaDEV/RafinhasouzaDEV/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RafinhasouzaDEV/RafinhasouzaDEV/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RafinhasouzaDEV/RafinhasouzaDEV/output/github-contribution-grid-snake.svg">
+</picture>
 🔹 Melhorando cada vez mais minha prática com **JavaScript** e técnicas avançadas.
 
 ## 💡 O que vem a seguir?
