@@ -34,10 +34,6 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](www.linkedin.com/in/rafaelnsouzadev)
 </div>
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{RafinhasouzaDEV}/count.svg" /></p> 
-<br></div>
 
 <div align="center">
 <picture align="center">
