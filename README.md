@@ -3,10 +3,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1B56FD&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+Meu+Nome+é+Rafael+Souza;Tenho+30+anos+e+moro+em+São+Paulo;Bem+Vindo+ao+meu+GitHub!:%29)](https://git.io/typing-svg) 
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=RafinhasouzaDEV&show_icons=true&count_private=true&hide_border=true&title_color=1B56FD&icon_color=1B56FD&text_color=FFF8F8&bg_color=0d1117" alt="Rafael Souza github stats"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafinhasouzaDEV&layout=compact&hide_border=true&title_color=1B56FD&text_color=FFF8F8&bg_color=0d1117" />
-</div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RafinhasouzaDEV&bg_color=000000&color=0118D8&line=FFF8F8&point=FFD63A&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
